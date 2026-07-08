@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack",
+  "description": "EduTrack is a full-featured Online Learning Management System designed to facilitate role-based education management, student enrollments, course content, graded assignments, and class discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
